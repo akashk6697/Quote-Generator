@@ -1,0 +1,31 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: rgba(149,134,231);
+}
+
+main {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+section {
+  margin-top: 100px;
+  display: grid;
+  place-items: center;
+  border: 2px solid gray;
+  padding: 20px 10px;
+  background-color: white;
+}
+
+h1 {
+  font-size: 2rem;
+}
+button{
+  font-size:medium;
+  background: rgb(10,155,44);
+  border-radius: 8px;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
